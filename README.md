@@ -1,6 +1,5 @@
 # Nuxt.js v2 PWA on Google App Engine Standard Environment
 Nuxt.js v2 * GAE/SE = SPA * SSR * PWA * Serverless
-> Nuxt.js v2 PWA on GAE/SE
 
 ## DEMO
 https://nuxt2-pwa-gae-250017.appspot.com/
@@ -8,13 +7,13 @@ https://nuxt2-pwa-gae-250017.appspot.com/
 ## Description
 
 ## Build Setup
-###Features
+### Features
 - SPA (Single Page Application)
 - SSR (Sever Side Rendering)
 - PWA (Progressive Web Apps)
 - Serverless (GAE/SE)
 
-###Requires
+### Requires
 - Node.js v10.x
 - npm or Yarn
 - Google Cloud SDK
